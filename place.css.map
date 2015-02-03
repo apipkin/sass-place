@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": ";AAKA,CAAK;EACD,KAAK,EALA,KAAK;;AAQd,OAAK;EACD,KAAK,EARA,KAAK;;;AAGd,CAAK;EACD,KAAK,EALA,KAAK;;AAQd,OAAK;EACD,KAAK,EARA,KAAK;;ACCd,IAAK;EACD,MAAM,EDHD,KAAK;ECIV,UAAU,EDHL,KAAK",
-"sources": ["_placeholders.scss","_blocks.scss"],
-"names": [],
-"file": "place.css"
-}
