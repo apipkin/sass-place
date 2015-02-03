@@ -1,0 +1,19 @@
+/* _links.scss*/
+a {
+  color: "f00"; }
+
+a:hover {
+  color: "b4E"; }
+
+/* _blocks */
+a {
+  color: "f00"; }
+
+a:hover {
+  color: "b4E"; }
+
+.box {
+  border: "f00";
+  background: "b4E"; }
+
+/*# sourceMappingURL=place.css.map */

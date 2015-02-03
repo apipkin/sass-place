@@ -1,0 +1,9 @@
+@import '_placeholders';
+
+a {
+    @extend %foo;
+}
+
+a:hover {
+    @extend %bar;
+}

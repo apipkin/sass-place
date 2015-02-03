@@ -1,0 +1,12 @@
+$fooga: (
+    foo: 'f00',
+    bar: 'b4E'
+);
+
+%foo {
+    color: map-get($fooga, 'foo');
+}
+
+%bar {
+    color: map-get($fooga, 'bar');
+}
